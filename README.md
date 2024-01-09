@@ -1,1 +1,1 @@
-#myFirstDart calculator and tictactoe game Apps.
+#myFirstDart calculator  App.
